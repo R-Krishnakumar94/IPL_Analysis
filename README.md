@@ -18,7 +18,7 @@ This Tableau dashboard visualizes key metrics from IPL matches (2008-2020):
 - `screenshot/`: Folder containing dashboard screenshot
 
 ## Dashboard Preview
-![Dashboard Screenshot](screenshot/Screenshot 2024-12-10 134941.jpg)
+![Dashboard Screenshot](screenshot/dashboard.png)
 
 ## Tableau Functions Used
 - **Calculated Fields**:
