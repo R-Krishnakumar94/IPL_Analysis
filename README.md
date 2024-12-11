@@ -63,7 +63,7 @@ This project demonstrates a comprehensive data analysis and visualization of the
 ## Dashboard Preview
 ![Dashboard Screenshot](screenshot/dashboard.png)
 
-## Tableau Public link fot the dashboard
+## Tableau Public link for the dashboard
 https://public.tableau.com/views/IndianPrimiereLeague/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Conclusion
