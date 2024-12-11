@@ -1,5 +1,5 @@
 # IPL_Analysis
-Tableau dashboard analyzing IPL matches (2008-2020)
+Tableau dashboard analyzing IPL cricket matches (2008-2020)
 # IPL Analysis Dashboard (2008-2020)
 
 ## Overview
